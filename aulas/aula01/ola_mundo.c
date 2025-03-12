@@ -6,7 +6,7 @@ int main() {
 printf("Ola mundo!\n");
 
 
-print("jjjjjjjjjjj");
+print("");
 
 
     return 0;
